@@ -1,0 +1,13 @@
+com\specification\specification_springBoot\Model\Car.class
+com\specification\specification_springBoot\Controller\CarController.class
+com\specification\specification_springBoot\Utils\SearchCriteria.class
+com\specification\specification_springBoot\datafilter\UIParam.class
+com\specification\specification_springBoot\SpecificationSpringBootApplication.class
+com\specification\specification_springBoot\datafilter\FilterOperator.class
+com\specification\specification_springBoot\datafilter\UbFilter.class
+com\specification\specification_springBoot\datafilter\UbSort.class
+com\specification\specification_springBoot\Specification\CarFilterSpecification.class
+com\specification\specification_springBoot\UIWrapper\UIWrapper.class
+com\specification\specification_springBoot\SpecificationBuilder\UserSpecificationsBuilder.class
+com\specification\specification_springBoot\Repository\CarRepository.class
+com\specification\specification_springBoot\datafilter\UbFilterDetail.class
